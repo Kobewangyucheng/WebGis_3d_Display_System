@@ -1,0 +1,183 @@
+13-Jun-2021 12:54:46.480 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.45
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Mar 30 2021 10:29:04 UTC
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.45.0
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\wyc96\.jdks\openjdk-15.0.1
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    15.0.1+9-18
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 12:54:46.487 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 12:54:46.500 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\tomcat\apache-tomcat-9.0.45\conf\logging.properties
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 12:54:46.515 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\tomcat\apache-tomcat-9.0.45\temp
+13-Jun-2021 12:54:46.525 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.27]。
+13-Jun-2021 12:54:46.525 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+13-Jun-2021 12:54:46.525 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+13-Jun-2021 12:54:46.525 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1k  25 Mar 2021]
+13-Jun-2021 12:54:46.776 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+13-Jun-2021 12:54:46.855 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[565]毫秒内初始化
+13-Jun-2021 12:54:46.895 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+13-Jun-2021 12:54:46.895 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.45]
+13-Jun-2021 12:54:46.910 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\Cesium]
+13-Jun-2021 12:54:47.150 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 12:54:47.255 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\Cesium]的部署已在[345]毫秒内完成
+13-Jun-2021 12:54:47.265 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\docs]
+13-Jun-2021 12:54:47.300 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 12:54:47.305 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\docs]的部署已在[40]毫秒内完成
+13-Jun-2021 12:54:47.305 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\examples]
+13-Jun-2021 12:54:47.635 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 12:54:47.705 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\examples]的部署已在[400]毫秒内完成
+13-Jun-2021 12:54:47.715 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\host-manager]
+13-Jun-2021 12:54:47.760 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 12:54:47.770 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\host-manager]的部署已在[55]毫秒内完成
+13-Jun-2021 12:54:47.770 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\manager]
+13-Jun-2021 12:54:47.812 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 12:54:47.825 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\manager]的部署已在[55]毫秒内完成
+13-Jun-2021 12:54:47.825 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\ROOT]
+13-Jun-2021 12:54:47.855 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 12:54:47.855 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\ROOT]的部署已在[30]毫秒内完成
+13-Jun-2021 12:54:47.865 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+13-Jun-2021 12:54:47.885 信息 [main] org.apache.catalina.startup.Catalina.start [1025]毫秒后服务器启动
+13-Jun-2021 13:27:50.891 信息 [Catalina-utility-1] org.apache.catalina.webresources.Cache.backgroundProcess 后台缓存收回进程无法释放上下文[/Cesium的缓存的[10]%-请考虑增加缓存的最大大小。在逐出之后，缓存中大约保留了[9,902]KB的数据。
+13-Jun-2021 13:27:50.895 警告 [http-nio-8080-exec-7] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/35/19.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:50.895 警告 [http-nio-8080-exec-6] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/34/20.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:50.896 警告 [http-nio-8080-exec-1] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/35/21.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:50.896 警告 [http-nio-8080-exec-5] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/35/20.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:50.896 警告 [http-nio-8080-exec-3] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/34/21.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:50.956 警告 [http-nio-8080-exec-4] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/33/21.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:50.956 警告 [http-nio-8080-exec-9] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/33/20.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:50.978 警告 [http-nio-8080-exec-2] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/36/20.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:51.000 警告 [http-nio-8080-exec-10] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/36/19.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:51.024 警告 [http-nio-8080-exec-3] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/33/19.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:51.024 警告 [http-nio-8080-exec-6] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/18/10.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:51.024 警告 [http-nio-8080-exec-8] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/16/10.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:51.058 警告 [http-nio-8080-exec-7] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/18/9.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:51.059 警告 [http-nio-8080-exec-5] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/36/17.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:51.059 警告 [http-nio-8080-exec-1] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/36/18.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:52.368 警告 [http-nio-8080-exec-9] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/20/14.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:52.541 警告 [http-nio-8080-exec-4] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/15/20.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:52.959 警告 [http-nio-8080-exec-10] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/9/7.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:52.959 警告 [http-nio-8080-exec-2] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/8/7.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:53.711 警告 [http-nio-8080-exec-6] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/11/6.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:54.108 警告 [http-nio-8080-exec-8] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/3/2/4.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:54.108 警告 [http-nio-8080-exec-7] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/2/3/0.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:27:54.108 警告 [http-nio-8080-exec-3] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/3/6/1.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:30:41.118 信息 [Catalina-utility-2] org.apache.catalina.webresources.Cache.backgroundProcess 后台缓存收回进程无法释放上下文[/Cesium的缓存的[10]%-请考虑增加缓存的最大大小。在逐出之后，缓存中大约保留了[9,667]KB的数据。
+13-Jun-2021 13:30:41.501 警告 [http-nio-8080-exec-2] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/27/59.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 13:30:41.629 警告 [http-nio-8080-exec-3] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/6/26/61.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+13-Jun-2021 17:59:02.604 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.45
+13-Jun-2021 17:59:02.614 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Mar 30 2021 10:29:04 UTC
+13-Jun-2021 17:59:02.614 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.45.0
+13-Jun-2021 17:59:02.615 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+13-Jun-2021 17:59:02.615 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+13-Jun-2021 17:59:02.615 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+13-Jun-2021 17:59:02.615 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\wyc96\.jdks\openjdk-15.0.1
+13-Jun-2021 17:59:02.615 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    15.0.1+9-18
+13-Jun-2021 17:59:02.615 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+13-Jun-2021 17:59:02.615 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 17:59:02.615 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 17:59:02.628 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Jun-2021 17:59:02.635 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+13-Jun-2021 17:59:02.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+13-Jun-2021 17:59:02.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Jun-2021 17:59:02.637 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Jun-2021 17:59:02.638 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\tomcat\apache-tomcat-9.0.45\conf\logging.properties
+13-Jun-2021 17:59:02.638 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Jun-2021 17:59:02.639 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+13-Jun-2021 17:59:02.639 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Jun-2021 17:59:02.640 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+13-Jun-2021 17:59:02.640 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 17:59:02.641 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 17:59:02.642 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\tomcat\apache-tomcat-9.0.45\temp
+13-Jun-2021 17:59:02.646 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.27]。
+13-Jun-2021 17:59:02.647 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+13-Jun-2021 17:59:02.648 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+13-Jun-2021 17:59:02.654 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1k  25 Mar 2021]
+13-Jun-2021 17:59:02.942 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+13-Jun-2021 17:59:03.024 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[675]毫秒内初始化
+13-Jun-2021 17:59:03.068 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+13-Jun-2021 17:59:03.068 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.45]
+13-Jun-2021 17:59:03.081 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\Cesium]
+13-Jun-2021 17:59:03.358 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 17:59:03.470 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\Cesium]的部署已在[385]毫秒内完成
+13-Jun-2021 17:59:03.475 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\docs]
+13-Jun-2021 17:59:03.524 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 17:59:03.540 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\docs]的部署已在[65]毫秒内完成
+13-Jun-2021 17:59:03.541 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\examples]
+13-Jun-2021 17:59:03.904 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 17:59:03.965 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\examples]的部署已在[424]毫秒内完成
+13-Jun-2021 17:59:03.973 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\host-manager]
+13-Jun-2021 17:59:04.004 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 17:59:04.024 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\host-manager]的部署已在[51]毫秒内完成
+13-Jun-2021 17:59:04.024 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\manager]
+13-Jun-2021 17:59:04.062 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 17:59:04.067 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\manager]的部署已在[43]毫秒内完成
+13-Jun-2021 17:59:04.073 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\ROOT]
+13-Jun-2021 17:59:04.102 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 17:59:04.104 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\ROOT]的部署已在[31]毫秒内完成
+13-Jun-2021 17:59:04.104 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+13-Jun-2021 17:59:04.122 信息 [main] org.apache.catalina.startup.Catalina.start [1094]毫秒后服务器启动
+13-Jun-2021 18:09:18.636 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.45
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Mar 30 2021 10:29:04 UTC
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.45.0
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\wyc96\.jdks\openjdk-15.0.1
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    15.0.1+9-18
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+13-Jun-2021 18:09:18.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\tomcat\apache-tomcat-9.0.45\conf\logging.properties
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\tomcat\apache-tomcat-9.0.45
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\tomcat\apache-tomcat-9.0.45\temp
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.27]。
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+13-Jun-2021 18:09:18.685 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1k  25 Mar 2021]
+13-Jun-2021 18:09:18.912 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+13-Jun-2021 18:09:18.984 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[519]毫秒内初始化
+13-Jun-2021 18:09:19.015 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+13-Jun-2021 18:09:19.015 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.45]
+13-Jun-2021 18:09:19.031 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\Cesium]
+13-Jun-2021 18:09:19.253 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 18:09:19.354 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\Cesium]的部署已在[323]毫秒内完成
+13-Jun-2021 18:09:19.369 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\docs]
+13-Jun-2021 18:09:19.401 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 18:09:19.401 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\docs]的部署已在[32]毫秒内完成
+13-Jun-2021 18:09:19.401 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\examples]
+13-Jun-2021 18:09:19.717 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 18:09:19.786 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\examples]的部署已在[385]毫秒内完成
+13-Jun-2021 18:09:19.786 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\host-manager]
+13-Jun-2021 18:09:19.840 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 18:09:19.855 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\host-manager]的部署已在[69]毫秒内完成
+13-Jun-2021 18:09:19.855 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\manager]
+13-Jun-2021 18:09:19.886 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 18:09:19.902 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\manager]的部署已在[47]毫秒内完成
+13-Jun-2021 18:09:19.902 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\ROOT]
+13-Jun-2021 18:09:19.933 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+13-Jun-2021 18:09:19.940 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\ROOT]的部署已在[38]毫秒内完成
+13-Jun-2021 18:09:19.955 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+13-Jun-2021 18:09:19.971 信息 [main] org.apache.catalina.startup.Catalina.start [983]毫秒后服务器启动

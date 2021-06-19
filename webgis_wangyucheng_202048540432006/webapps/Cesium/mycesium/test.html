@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Cesium应用程序框架</title>
+
+    <!-- 1. 添加Cesium的js引用 -->
+    <script src="../Build/Cesium/Cesium.js"></script>
+    <style>
+        @import url(../Apps/Sandcastle/templates/bucket.css);
+      </style>
+      <div id="cesiumContainer" class="fullSize"></div>
+      <div id="loadingOverlay">
+        <h1>Loading...</h1>
+      </div>
+      <div id="toolbar">
+        <select class="cesium-button" id="dropdown">
+          <option value="0">纯色</option>
+          <option value="1">半透明</option>
+          <option value="2">通过材料分类</option>
+          <option value="3">通过高度分类</option>
+          <option value="4">镜头定位到曼哈顿</option>
+          <option value="5">高亮所有高度在250米以上的建筑物</option>
+          <option value="6">3D飞机模型</option>
+          <option value="7">展示飞行轨迹</option>
+        </select>
+        <table class="infoPanel">
+          <tbody>
+            <tr>
+              <td>Click on a building to select as the central location</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>  
+    </style>
+    <!-- <script type="text/javascript" src="js/geojsoninfo.js"></script> -->
+    <script type="text/javascript" src="../Apps/Sandcastle/Sandcastle-header.js"></script>
+    <script type="text/javascript" src="js/test.js"></script>
+
+  </head>
+
+  <body onload="Init()">
+    <!-- 3.添加Cesium Viewer的div容器 -->
+    <div id="cesiumContainer"></div>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+19-Jun-2021 19:15:04.032 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.45
+19-Jun-2021 19:15:04.069 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Mar 30 2021 10:29:04 UTC
+19-Jun-2021 19:15:04.069 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.45.0
+19-Jun-2021 19:15:04.069 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+19-Jun-2021 19:15:04.069 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+19-Jun-2021 19:15:04.069 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+19-Jun-2021 19:15:04.069 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Users\wyc96\.jdks\openjdk-15.0.1
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    15.0.1+9-18
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\tomcat\apache-tomcat-9.0.45
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\tomcat\apache-tomcat-9.0.45
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.lang=ALL-UNNAMED
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.io=ALL-UNNAMED
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util=ALL-UNNAMED
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+19-Jun-2021 19:15:04.073 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-Jun-2021 19:15:04.077 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=D:\tomcat\apache-tomcat-9.0.45\conf\logging.properties
+19-Jun-2021 19:15:04.077 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Jun-2021 19:15:04.077 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+19-Jun-2021 19:15:04.077 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Jun-2021 19:15:04.077 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+19-Jun-2021 19:15:04.077 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=D:\tomcat\apache-tomcat-9.0.45
+19-Jun-2021 19:15:04.077 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=D:\tomcat\apache-tomcat-9.0.45
+19-Jun-2021 19:15:04.081 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=D:\tomcat\apache-tomcat-9.0.45\temp
+19-Jun-2021 19:15:04.081 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.27]。
+19-Jun-2021 19:15:04.085 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+19-Jun-2021 19:15:04.097 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+19-Jun-2021 19:15:04.105 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1k  25 Mar 2021]
+19-Jun-2021 19:15:04.374 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+19-Jun-2021 19:15:04.454 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[633]毫秒内初始化
+19-Jun-2021 19:15:04.490 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+19-Jun-2021 19:15:04.490 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.45]
+19-Jun-2021 19:15:04.502 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\Cesium]
+19-Jun-2021 19:15:04.744 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+19-Jun-2021 19:15:04.853 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\Cesium]的部署已在[343]毫秒内完成
+19-Jun-2021 19:15:04.876 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\docs]
+19-Jun-2021 19:15:04.928 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+19-Jun-2021 19:15:04.956 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\docs]的部署已在[80]毫秒内完成
+19-Jun-2021 19:15:04.956 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\examples]
+19-Jun-2021 19:15:05.367 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+19-Jun-2021 19:15:05.443 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\examples]的部署已在[483]毫秒内完成
+19-Jun-2021 19:15:05.459 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\host-manager]
+19-Jun-2021 19:15:05.495 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+19-Jun-2021 19:15:05.527 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\host-manager]的部署已在[68]毫秒内完成
+19-Jun-2021 19:15:05.527 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\manager]
+19-Jun-2021 19:15:05.567 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+19-Jun-2021 19:15:05.583 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\manager]的部署已在[56]毫秒内完成
+19-Jun-2021 19:15:05.583 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [D:\tomcat\apache-tomcat-9.0.45\webapps\ROOT]
+19-Jun-2021 19:15:05.611 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+19-Jun-2021 19:15:05.623 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[D:\tomcat\apache-tomcat-9.0.45\webapps\ROOT]的部署已在[40]毫秒内完成
+19-Jun-2021 19:15:05.627 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+19-Jun-2021 19:15:05.639 信息 [main] org.apache.catalina.startup.Catalina.start [1185]毫秒后服务器启动
+19-Jun-2021 19:23:27.368 警告 [http-nio-8080-exec-5] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/5/13.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:27.662 警告 [http-nio-8080-exec-6] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/5/19.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.018 警告 [http-nio-8080-exec-8] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/3/3/7.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.018 警告 [http-nio-8080-exec-2] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/3/10.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.021 警告 [http-nio-8080-exec-7] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/4/10.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.021 警告 [http-nio-8080-exec-3] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/2/10.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.024 警告 [http-nio-8080-exec-1] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/6/12.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.027 警告 [http-nio-8080-exec-4] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/4/9.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.142 警告 [http-nio-8080-exec-10] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/5/10.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.142 警告 [http-nio-8080-exec-9] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/5/9.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.253 警告 [http-nio-8080-exec-6] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/6/9.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:28.253 警告 [http-nio-8080-exec-5] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/1/8.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.004 警告 [http-nio-8080-exec-8] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/4/11.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.005 警告 [http-nio-8080-exec-3] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/2/11.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.006 警告 [http-nio-8080-exec-7] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/3/11.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.009 警告 [http-nio-8080-exec-4] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/8/24.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.010 警告 [http-nio-8080-exec-1] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/9/24.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.011 警告 [http-nio-8080-exec-2] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/8/25.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.156 警告 [http-nio-8080-exec-10] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/7/12.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.179 警告 [http-nio-8080-exec-6] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/9/26.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.180 警告 [http-nio-8080-exec-5] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/5/11.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:23:29.180 警告 [http-nio-8080-exec-9] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/8/26.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:25:13.802 警告 [http-nio-8080-exec-10] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/11/24.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:25:16.552 信息 [Catalina-utility-2] org.apache.catalina.webresources.Cache.backgroundProcess 后台缓存收回进程无法释放上下文[/Cesium的缓存的[10]%-请考虑增加缓存的最大大小。在逐出之后，缓存中大约保留了[10,237]KB的数据。
+19-Jun-2021 19:25:44.525 警告 [http-nio-8080-exec-6] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/9/21.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:25:45.091 警告 [http-nio-8080-exec-9] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/7/13.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:25:45.117 警告 [http-nio-8080-exec-1] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/4/4/14.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
+19-Jun-2021 19:25:45.268 警告 [http-nio-8080-exec-10] org.apache.catalina.webresources.Cache.getResource 无法将位于[/mycesium/data/3ddata/NewYork/5/10/25.b3dm]的资源添加到Web应用程序[/Cesium]的缓存中，因为在清除过期缓存条目后可用空间仍不足 - 请考虑增加缓存的最大空间。
